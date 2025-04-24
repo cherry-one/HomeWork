@@ -20,7 +20,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          ✏️과제
+          ✏️Project
         </a>
         <a
           className="link-button"
